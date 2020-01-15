@@ -6,3 +6,8 @@ shift + Enter -> faz pesquisa <br/>
 Esc -> limpa pesquisa <br/>
 # Idealizado por cod3r Curso
 https://github.com/cod3rcursos
+
+# back end
+execute o mongod
+e inicialize o back end utilizando o comando npm run dev 
+utilizar o back end que esta neste repositorio -> https://github.com/DanielCavin/back-end-Todo-app-01
