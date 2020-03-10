@@ -11,3 +11,6 @@ https://github.com/cod3rcursos
 execute o mongod <br>
 inicialize o back end utilizando o comando npm run dev <br>
 utilizar o back end que esta neste repositorio -> https://github.com/DanielCavin/back-end-Todo-app-01
+
+# Publicação no Linkedin <br/>
+https://www.linkedin.com/feed/update/urn:li:activity:6642750363923423233/
